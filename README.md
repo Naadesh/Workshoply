@@ -47,10 +47,3 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fo
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-### Customization
-1. **Replace** `yourusername` in the clone URL with your GitHub username.
-2. **Fill in** the [CONTRIBUTING.md](CONTRIBUTING.md) link if you create a contributing file.
-3. **Add your own license** if you have a specific one or choose an appropriate one for the project.
-
-This README file provides a structured overview of your project and helps others understand how to use it. Let me know if you need any changes or additional sections!
